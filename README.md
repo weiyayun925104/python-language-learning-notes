@@ -1,2 +1,16 @@
 # python-language-learning-notes
-My learning notes about Python language Python Crash Course 2nd Beginning Python 3rd Learn Python 3 the hard way Learn More Python 3 the hard way Learning python Think Python Effective Python Fluent Python
+# python语言学习笔记
+
+## python语言学习顺序
+
+### 入门
+> * Python Crash Course
+> * Think Python
+> * Learn Python the hard way
+> * Beginning Python
+> * Learning Python
+
+### 提高
+> * Effective Python
+> * Fluent Python
+> * Python 知识点总结
